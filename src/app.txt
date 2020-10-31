@@ -1,0 +1,1 @@
+Commands to start the project - ionic serve
